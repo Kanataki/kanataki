@@ -3,6 +3,7 @@
 
 var inquirer = require("inquirer");
 var chalk = require("chalk");
+var figlet = require("figlet");
 
 var response = chalk.bold.green;
 
@@ -16,6 +17,10 @@ var resumePrompts = {
 };
 
 function main() {
+  console.log(
+    chalk.yellow (
+      figlet.textSync('KANATAKI', { horizontalLayout: 'full'}))
+    );
   console.log("Howdy, I am Kanataki and welcome to my resume!");
   resumeHandler();
 }
