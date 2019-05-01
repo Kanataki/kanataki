@@ -1,0 +1,32 @@
+{
+    "Education": [
+        "Computer Science DropOut: Multimedia University",
+        "Certified Oracle Associate: Institute of Advanced Technology",
+        "CCNA: Kenyatta University",
+        "Goethe Zertifikat A1: Goethe Institut Nairobi",
+        "Community Wireless Networks: ISOC,ICTP Nairobi Seminar"
+    ],
+    "Work Experience": [
+        "DevOps/Data Eng: Itech",
+        "Network Eng/3D Designer: Freelance",
+        "Lead ICT Coach: Learning Lions",
+        "ICT Trainer: Tunapanda Institute",
+        "Network Engineer: Tunapanda Institute"
+    ],
+    "Specialized Skills": [
+        "Enterprise Linux Admin: AWS | Automation | Deployment",
+        "Database: PostgreSQL | GreenPlum | SQL-Server | Mongo DB | Oracle",
+        "Programming: R | Python | Ruby | Scala | JavaScript | HTML| CSS | Dust",
+        "BI Tools: Pentaho-Server | PowerBI | Tableau",
+        "Data Magic: Pentaho-PDI | Weka | Trifacta | Talend",
+        "Big Data: Horton-Works",
+        "Streaming: Kafka",
+        "Other Tools & Skills: Nifi | Shiny | Zepellin"
+    ],
+    "Contact": [
+        "Email: gichiniwaruingi@gmail.com",
+        "LinkedIn: Patrick Gichini",
+        "Twitter: @KanatakiSan",
+        "GitHub: Kanataki"
+    ]
+}
